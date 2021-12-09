@@ -2,6 +2,7 @@
 !/.monaca/project_info.json
 /platforms
 .DS_Store
+keys.js
 *.swp
 .vscode/
 typings/
